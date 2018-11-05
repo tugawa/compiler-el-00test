@@ -4,9 +4,9 @@
 
 GitHubのユーザ名が`USERNAME`の場合:
 
-  1. このリポジトリを`ml-practice-USERNAME`と同じディレクトリに clone する．
-  2. `ml-practice-USERNAME/regexp-test/` ディレクトリで make して `printast`，`interp`，`comp` を作る．
-  3. `ml-practice-USERNAME/regexp-test/` ディレクトリで `test.sh` を実行する．
+  1. このリポジトリを`compiler-el-USERNAME`と同じディレクトリに clone する．
+  2. `compiler-el-USERNAME/` ディレクトリで make して `printast`，`interp`，`comp` を作る．
+  3. `compiler-el-USERNAME/` ディレクトリで `test.sh` を実行する．
   
   (プログラムを個別にテストしたい場合は，それぞれ `test_printast.sh`，`test_interp.sh`，`test_comp.sh` を実行する．)
 
