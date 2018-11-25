@@ -1,0 +1,10 @@
+int x = 3; int y = 5; x
+3
+int x = 3; int y = 5; x + x - x * x / x
+3
+int x = 3; int y = 5; x + x - x * x / x + y - y * y / y
+3
+int x = 3; int y = 5; int z = 7; z * y * x
+105
+int x0 = 30; int y0 = 50; int z0 = 70; x0 + y0 + z0
+150

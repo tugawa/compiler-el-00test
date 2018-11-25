@@ -1,0 +1,8 @@
+int int255 = 255; int255
+(VarDef int255 255 (VarRef int255))
+int int256 = 256; int256
+(VarDef int256 256 (VarRef int256))
+int int1023 = 1023; int1023
+(VarDef int1023 1023 (VarRef int1023))
+int int1024 = 1024; int1024
+(VarDef int1024 1024 (VarRef int1024))
